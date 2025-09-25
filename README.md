@@ -88,7 +88,7 @@ See the [LICENSE](LICENSE) file for more details.
 For questions, suggestions, or collaboration opportunities:
 
 * **GitHub:** [@inshalahmed17](https://github.com/inshalahmed17)
-* **Email:** [inshalahmed17@gmail.com](mailto:inshalahmed17@gmail.com)
+* **Email:** [inshalahmed1709@gmail.com](mailto:inshalahmed1709@gmail.com)
 
 ---
 
